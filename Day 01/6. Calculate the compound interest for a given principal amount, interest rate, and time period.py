@@ -11,3 +11,4 @@ r = r / 100 # converting to % for interest
 a = p * (1+(r/n))**(n*t)
 
 print(a)
+
